@@ -10,7 +10,7 @@ function router(app) {
   app.use("/admin", routerAuth);
 
   //router product
-  app.use("/product", routerProduct);
+  app.use("/products", routerProduct);
   //router category
   app.use("/category", routerCategory);
   //router order

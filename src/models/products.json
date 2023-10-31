@@ -1,26 +1,7 @@
 [
-  {
-    "sku": "86701",
-    "product_name": "Sleek Cotton Chicken",
-    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-    "unit_price": "341.00",
-    "stock_quantity": 20665,
-    "image": "https://loremflickr.com/640/480/food",
-    "created_at": "2023-10-17T02:46:01.549Z",
-    "updated_at": "2023-10-17T02:46:01.549Z",
-    "id": "2"
-  },
-  {
-    "sku": "35217-7094",
-    "product_name": "Practical Soft Shirt",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-    "unit_price": "632.00",
-    "stock_quantity": 31138,
-    "image": "https://loremflickr.com/640/480/food",
-    "created_at": "2023-10-17T02:46:01.549Z",
-    "updated_at": "2023-10-17T02:46:01.549Z",
-    "id": "3"
-  },
+  { "name": "lap top ", "price": "1000", "description": "lorem is puádasdasd", "id": "1" },
+  { "name": "may tinh", "price": "100", "description": "lorem is pus", "id": "2" },
+  { "name": "may tinh", "price": "100", "description": "lorem is pus", "id": "3" },
   {
     "sku": "79186",
     "product_name": "Awesome Soft Keyboard",
@@ -53,5 +34,8 @@
     "created_at": "2023-10-17T02:46:01.549Z",
     "updated_at": "2023-10-17T02:46:01.549Z",
     "id": "6"
-  }
+  },
+  { "name": "may tinh", "price": "100", "description": "lorem is pus", "id": 7 },
+  { "name": "may tinh", "price": "100", "description": "lorem is pus", "id": 8 },
+  { "name": "may tinh", "price": "100", "description": "lorem is pus", "id": 9 }
 ]
